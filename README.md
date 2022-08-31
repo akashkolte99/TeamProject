@@ -2,8 +2,8 @@
 <h3>Hi Everyone, This is our first team project at Masai school.</h3>
 <h4>Team member includes:-</h4>
 <ol>
+     <li>Akash kolte</li>
     <li>Harikrishnan Shaji</li>
-    <li>Akash kolte</li>
     <li>Sathan Kumar</li>
     <li>Himanshu Pokhariya/li>
     <li>Sumeet More</li>
